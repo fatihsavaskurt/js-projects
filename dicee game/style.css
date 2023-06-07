@@ -1,0 +1,29 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+body{
+    background-color: rgb(139, 188, 204);
+}
+
+h1{
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(57, 91, 100) ;
+}
+
+p{
+    font-size: 50px;
+    color: rgb(92, 46, 126);
+}
+
+.dice img{
+    width: 50%;
+}
